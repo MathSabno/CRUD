@@ -2,6 +2,21 @@
 Este projeto é uma aplicação CRUD simples para gerenciar tarefas, desenvolvida com ASP.NET Core e Entity Framework Core. A API permite criar, listar, atualizar e deletar tarefas em um banco de dados SQL Server.
 
 # Funcionalidades
+- Criar Tarefa: Adiciona uma nova tarefa no banco de dados.
+
+- Listar Tarefas: Retorna uma lista com todas as tarefas.
+
+- Atualizar Tarefa: Atualiza uma tarefa existente no banco de dados.
+
+- Deletar Tarefa: Remove uma tarefa do banco de dados.
+
+# Tecnologias utilizadas
+- ASP.NET Core 6.0: Framework para construção de APIs RESTful.
+
+- Entity Framework Core (6.0.35): ORM para interagir com o banco de dados SQL Server.
+
+- SQL Server: Banco de dados relacional utilizado na aplicação.
+
 - Swagger: Documentação e testes da API.
 
 # Estrutura do Projeto
