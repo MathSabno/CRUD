@@ -83,7 +83,7 @@ Abaixo está um breve resumo das principais classes e namespaces:
 https://github.com/MathSabno/WebAPI.Crud.git
 
 **3. Baixar e restaurar o banco de dados**
-- Faça o download do arquivo de backup (.bkp) do banco de dados.
+- Faça o download do arquivo de backup (WebAPI.bkp) do banco de dados.
 - No SQL Server Management Studio (SSMS), siga as etapas para restaurar o banco:
   
 1. Abra o SSMS e conecte-se ao servidor SQL.
